@@ -1,3 +1,14 @@
+# Release v3.1.1 - 2026-04-07
+
+## Improvements
+- Corrected repository link in README.md
+- Added support for publishing to Open VSX Registry alongside Visual Studio Marketplace
+- Added version check against `package.json` in the release script
+- Improved error handling for missing publishing tokens in the release script
+- Marked the package as preview
+
+---
+
 # Release v2.1.1 - 2026-03-17
 
 ## Improvements
